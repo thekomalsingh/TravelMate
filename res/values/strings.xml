@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TravelMate</string>
+    <string name="police">Police Station</string>
+    <string name="hospital">Hospital</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
